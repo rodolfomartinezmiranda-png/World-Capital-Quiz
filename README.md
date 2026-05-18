@@ -24,4 +24,4 @@ To run this project locally, ensure you have **Node.js** installed on your syste
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Daedalus-DevM240/World-Capital-Quiz.git](https://github.com/Daedalus-DevM240/World-Capital-Quiz.git)
-   cd World-Capital-Quiz<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/65bc4ddd-1247-414c-9893-3973d17ce6dc" />
+<img width="273" height="181" alt="image" src="https://github.com/user-attachments/assets/a7993d37-fee6-4271-8b16-06cc0d909ebe" />
